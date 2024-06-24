@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
+}
+
+.miniaturaAlbum{
+  max-width: 70px;
+  height: auto;
+}
+
+.maximoInterprete{
+  max-width: 300px;
+  height: auto;
+}
+
+.check-amarillo {
+  color: #fed93e;
+}
+
+.check-rojo {
+  color: #82140e;
+}
+
+.check-verde {
+  color: #1d7612;
+}
+
+.form-acceso input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-acceso input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.customize-colors {
+  background-color: deepskyblue !important;
+  color: seashell !important;
+}
+
+.margen{
+  background-color: aqua;
+}
+
+#menu li > a {
+  font-size: 18px;
+  font-weight: bold;
+  color: #3f3f3f;
+}
